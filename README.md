@@ -4,7 +4,7 @@ This is the git repo for the project at Web Tech for the team Lady and gentleman
 Members of the team
 -------------------------- |
 Ene Flavian-Alexandru  |
-Busuioc Stefania       |
+[Busuioc Stefania](https://github.com/Stfelz6)       |
 
 
 Using the following resources given by the professor: [Project Theme](https://docs.google.com/document/d/1wzTXvrZzQhO3ZD_IscU1ENIuYZPhqeq-/view "1") and [General Requirements](https://drive.google.com/file/d/1AiR2R2noX24zzfWu0-DvcV9Wt1lF-jTl/view "2")
